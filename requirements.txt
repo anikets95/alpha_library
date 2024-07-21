@@ -1,0 +1,13 @@
+s3fs
+gcsfs
+smart_open[gcs,s3,azure]
+boto3
+azure-identity
+google-cloud-storage
+google-auth
+requests
+httpx[http2]
+fasttext
+pysftp
+pycurl
+pycrypto
